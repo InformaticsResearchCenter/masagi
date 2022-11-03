@@ -3,7 +3,7 @@
 
 Front end koleksi data geologi
 
-run otomatis [???)
+run otomatis [https://museumgeobdg.netlify.app/]
 
 ## Persiapan
 
