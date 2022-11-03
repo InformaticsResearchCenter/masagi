@@ -22,7 +22,7 @@ nanti harus update app dan masukan wrapper
 
 Run Project:
 
-### Jalankan Aplikasi `npm start`
+### Jalankan Aplikasi `YARN start`
 
 Open [http://localhost:3000](http://localhost:3000) browser
 
